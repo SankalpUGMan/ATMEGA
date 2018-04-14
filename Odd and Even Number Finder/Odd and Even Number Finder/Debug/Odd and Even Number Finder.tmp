@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\Odd and Even Number Finder\Odd and Even Number Finder\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>F:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\Odd and Even Number Finder\Odd and Even Number Finder\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\Odd and Even Number Finder\Odd and Even Number Finder\Debug\Odd and Even Number Finder.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Odd and Even Number Finder.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Odd and Even Number Finder.map</FILE>
+  <FILE>Odd and Even Number Finder.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <NUM><FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\Odd and Even Number Finder\Odd and Even Number Finder\main.asm</FILE><LINE>17</LINE></NUM>
+  <GO><FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\Odd and Even Number Finder\Odd and Even Number Finder\main.asm</FILE><LINE>9</LINE></GO>
+  <EQUAL><FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\Odd and Even Number Finder\Odd and Even Number Finder\main.asm</FILE><LINE>13</LINE></EQUAL>
+ </LABELS>
+</ASSEMBLER_INFO>

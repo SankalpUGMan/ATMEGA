@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\Add and Subtract\Add and Subtract\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>F:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\Add and Subtract\Add and Subtract\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\Add and Subtract\Add and Subtract\Debug\Add and Subtract.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Add and Subtract.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Add and Subtract.map</FILE>
+  <FILE>Add and Subtract.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <NUM><FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\Add and Subtract\Add and Subtract\main.asm</FILE><LINE>18</LINE></NUM>
+ </LABELS>
+</ASSEMBLER_INFO>

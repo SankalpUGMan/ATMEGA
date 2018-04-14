@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\16 Bit Adder\16 Bit Adder\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>F:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\16 Bit Adder\16 Bit Adder\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\16 Bit Adder\16 Bit Adder\Debug\16 Bit Adder.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>16 Bit Adder.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>16 Bit Adder.map</FILE>
+  <FILE>16 Bit Adder.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <NUM><FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\16 Bit Adder\16 Bit Adder\main.asm</FILE><LINE>21</LINE></NUM>
+  <forward><FILE>H:\IMPS and STUDY RELATEDS\IITM\Semester 3\EE2016\Lab\ATMEGA\16 Bit Adder\16 Bit Adder\main.asm</FILE><LINE>15</LINE></forward>
+ </LABELS>
+</ASSEMBLER_INFO>
